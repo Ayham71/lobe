@@ -20,6 +20,7 @@ nav ul li a{
     text-decoration: none;
     color: #767676;
     font-size: larger;
+    cursor: pointer;
     
 }
 button{
@@ -30,6 +31,7 @@ button{
     padding: 20px;
     font-size: larger;
     color: white;
+    cursor: pointer;
 }
 a:hover, a:active{
     font-size: x-large;
